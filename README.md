@@ -1,4 +1,4 @@
-#Creature Stage Extender
+# Creature Stage Extender
 **About**:
 - A mod that increases the amount of DNA required to beat Creature Stage, by a set multiplier.
 
